@@ -83,9 +83,9 @@ final class MergeSort {
 
       int[] numberArray = randomNumberArray;
 
-      System.out.println("Original array: " + Arrays.toString(numberArray));
+      System.out.println("Original array:\n" + Arrays.toString(numberArray));
       int[] newArray = mergeSort(numberArray);
-      System.out.println("Sorted array: " + Arrays.toString(newArray));
+      System.out.println("Sorted array:\n" + Arrays.toString(newArray));
 
 
   }
