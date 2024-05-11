@@ -25,7 +25,7 @@ final class MergeSort {
   /**
   * The max number for array.
   */
-  public static final int MAX = 999;
+  public static final int MAX = 100;
   /**
   * The number of elements in the array.
   */
